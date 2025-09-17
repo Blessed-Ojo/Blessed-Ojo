@@ -1,3 +1,5 @@
+![Arkos Technologies Banner](https://i.postimg.cc/c4T9qQfM/14815816-7377-4810-97-BF-A3162-C9150-A0.png)
+
 # 👋 Welcome to Arkos Technologies 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7EF&lines=Welcome+to+Arkos+Technologies;Fullstack+Developer;UI/UX+Designer;Mobile+App+Builder;Always+Learning+🚀)](https://git.io/typing-svg)
 
