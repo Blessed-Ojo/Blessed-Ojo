@@ -1,7 +1,18 @@
-![Arkos Technologies Banner](https://i.postimg.cc/c4T9qQfM/14815816-7377-4810-97-BF-A3162-C9150-A0.png)
+<!-- Banner -->
+<p align="center">
+  <img src="https://i.postimg.cc/c4T9qQfM/14815816-7377-4810-97-BF-A3162-C915C.png" alt="Arkos Technologies Banner" width="100%">
+</p>
 
-# 👋 Welcome to Arkos Technologies 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7EF&lines=Welcome+to+Arkos+Technologies;Fullstack+Developer;UI/UX+Designer;Mobile+App+Builder;Always+Learning+🚀)](https://git.io/typing-svg)
+<!-- Typing effect -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=00F7EF&center=true&vCenter=true&width=600&lines=Welcome+to+Arkos+Technologies;Fullstack+Developer;UI/UX+Designer;Mobile+App+Builder;Always+Learning+🚀" alt="Typing SVG" />
+  </a>
+</p>
+
+---
+
+# 👋 Welcome to Arkos Technologies  
 
 We are **Arkos Technologies**, a creative software development company led by [Blessed Ojo](https://github.com/Blessed-Ojo).  
 Our mission is to build scalable, modern, and user-friendly digital experiences.  
@@ -40,15 +51,17 @@ Our mission is to build scalable, modern, and user-friendly digital experiences.
 
 ## 📊 GitHub Stats  
 
-![Prince's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blessed-Ojo&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Blessed-Ojo&layout=compact&theme=radical)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Blessed-Ojo&show_icons=true&theme=radical" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blessed-Ojo&layout=compact&theme=radical" alt="Top Langs" height="165" />
+</p>
 
 ---
 
 ## 📬 Connect With Us  
 🌐 Portfolio: [blessedportfolio.vercel.app](https://blessedportfolio.vercel.app)  
-💼 LinkedIn: [ArkosDev] (http://linkedin.com/in/arkosdev)
-📧 Email: ojoblessed533@gmail.com  
+💼 LinkedIn: [ArkosDev](http://linkedin.com/in/arkosdev)  
+📧 Email: **ojoblessed533@gmail.com**  
 
 ---
 
