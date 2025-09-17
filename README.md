@@ -1,6 +1,6 @@
 # 👋 Welcome to Arkos Technologies  
 
-We are **Arkos Technologies**, a creative software development company led by [Prince Ojo](https://github.com/Blessed-Ojo).  
+We are **Arkos Technologies**, a creative software development company led by [Blessed Ojo](https://github.com/Blessed-Ojo).  
 Our mission is to build scalable, modern, and user-friendly digital experiences.  
 
 ---
