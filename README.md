@@ -1,41 +1,52 @@
-## 👋 Welcome to Arkos Technologies
+# 👋 Welcome to Arkos Technologies  
 
-We are Arkos Technologies, a creative software development company led by Prince Ojo. Our mission is to build scalable, modern, and user-friendly digital experiences.
+We are **Arkos Technologies**, a creative software development company led by [Prince Ojo](https://github.com/Blessed-Ojo).  
+Our mission is to build scalable, modern, and user-friendly digital experiences.  
 
-⸻
+---
 
-🚀 About Us
-	•	🔭 Currently working on full-stack web & mobile apps
-	•	🌱 Exploring React Native, Next.js, MongoDB, Tailwind, and Cloud Tech
-	•	💡 Passionate about UI/UX + solving real-world problems with code
-	•	🌍 Open to collaborations & freelance opportunities
+## 🚀 About Us  
+- 🔭 Currently building **full-stack web & mobile apps**  
+- 🌱 Exploring **React Native, Next.js, MongoDB, Tailwind, and Cloud Tech**  
+- 💡 Passionate about **UI/UX + solving real-world problems with code**  
+- 🌍 Open to collaborations & freelance opportunities  
 
-⸻
+---
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack  
 
-Frontend: Next.js, React, Tailwind CSS, Bootstrap, HTML, CSS, JavaScript
-Backend: Node.js, Express, MongoDB, Appwrite
-Mobile: React Native (Expo)
-Other Tools: Git, Sanity CMS, Cloudinary, Inngest, Clerk
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 
-⸻
+---
 
-📂 Featured Projects
+## 📂 Featured Projects  
+🔹 [E-Commerce Web App](#) – Full-stack store with manual payments & order tracking  
+🔹 [Eventify App](#) – Event booking & management UI/UX + React Native build  
+🔹 [DevLinkUp](#) – Tech community hub for developers to connect & grow  
 
-🔹 E-Commerce Web App – Full-stack store with manual payments & order tracking
-🔹 Eventify App – Event booking & management UI/UX + React Native build
-🔹 DevLinkUp – Tech community hub for developers to connect & grow
+---
 
-⸻
+## 📊 GitHub Stats  
 
-📬 Connect With Us
+![Prince's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blessed-Ojo&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Blessed-Ojo&layout=compact&theme=radical)  
 
-🌐 Portfolio: blessedportfolio.vercel.app
- 📞 Phone:07058558092
-📧 Email: ojoblessed533@gmail.com
+---
 
-⸻
+## 📬 Connect With Us  
+🌐 Portfolio: [blessedportfolio.vercel.app](https://blessedportfolio.vercel.app)  
+💼 LinkedIn: [ArkosDev] (http://linkedin.com/in/arkosdev)
+📧 Email: ojoblessed533@gmail.com  
 
-✨ At Arkos Technologies, we don’t just write code — we craft digital experiences.
+---
 
+✨ *At Arkos Technologies, we don’t just write code — we craft digital experiences.*  
