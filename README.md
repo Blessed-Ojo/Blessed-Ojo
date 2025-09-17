@@ -1,4 +1,5 @@
-# 👋 Welcome to Arkos Technologies  
+# 👋 Welcome to Arkos Technologies 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7EF&lines=Welcome+to+Arkos+Technologies;Fullstack+Developer;UI/UX+Designer;Mobile+App+Builder;Always+Learning+🚀)](https://git.io/typing-svg)
 
 We are **Arkos Technologies**, a creative software development company led by [Blessed Ojo](https://github.com/Blessed-Ojo).  
 Our mission is to build scalable, modern, and user-friendly digital experiences.  
@@ -11,7 +12,6 @@ Our mission is to build scalable, modern, and user-friendly digital experiences.
 - 💡 Passionate about **UI/UX + solving real-world problems with code**  
 - 🌍 Open to collaborations & freelance opportunities  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7EF&lines=Welcome+to+Arkos+Technologies;Fullstack+Developer;UI/UX+Designer;Mobile+App+Builder;Always+Learning+🚀)](https://git.io/typing-svg)
 ---
 
 ## 🛠️ Tech Stack  
